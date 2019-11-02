@@ -7,8 +7,8 @@ This repository contains an image with a hidden ASCII message, the python code u
 ---
 ## Requirements
 - Docker :whale: [*Optional for running python*]
-- Python <img src="./images/python.png" height="25">
-- `pillow` for Python 3
+- Python <img src="https://user-images.githubusercontent.com/21998037/68075377-2f832380-fda7-11e9-80a2-3255f807a937.png" height="25" align="center">
+- `pillow` for Python 3 :pouch:
 
 </br>
 
