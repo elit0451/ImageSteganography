@@ -82,7 +82,7 @@ The following section contains our *“every 30 min”* diaries for the 1 hour w
 
 ### Reflection
 **Which aspect of the exercise was taking you the longest time to solve?** 
-> The first 30 mins (check diary :point_up:), since we were brainstorming using pen and paper and then challenging ourselves with a language we don’t use daily to implement the conclusions we’d gathered from the brainstorm.
+> The first 30 mins (check diary:point_up:), since we were brainstorming using pen and paper and then challenging ourselves with a language we don’t use daily to implement the conclusions we’d gathered from the brainstorm.
 </br>
 
 **Which part of the exercise was side tracking you the most (which dead-ends did you pursue)?**
