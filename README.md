@@ -16,7 +16,7 @@ This repository contains an image with a hidden ASCII message, the python code u
 ## Getting Started
 > Environment setup
 
-Start by cloning down this repository which contains the [imgSteganography.py]() script, together with the manipulated image [Stego.png](). </br>
+Start by cloning down this repository which contains the [imgSteganography.py](imgSteganography.py) script, together with the manipulated image [Stego.png](Stego.png). </br>
 Installing **pillow** can be done by executing `pip3 install pillow` on your favourite terminal.
  
 If you **don't** have **python3** on your system, make sure your docker is running and then execute the following command:
@@ -43,7 +43,7 @@ The output presented would be the hidden message stored in the image, and will b
 ---
 ## Investigation and Reporting
 ### Search history
-A list of all Google queries made to solve this assignment, including timestamps and all URLs of the visited pages can be found in [historyCSV]() file.
+A list of all Google queries made to solve this assignment, including timestamps and all URLs of the visited pages can be found in [historyCSV](historyCSV.csv) file.
 
 </br>
 
