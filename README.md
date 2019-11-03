@@ -5,7 +5,7 @@ This repository contains an image with a hidden ASCII message, the python code u
 </br>
 
 ---
-## Requirements
+## Requirements :clipboard:
 - Docker :whale: [*Optional for running python*]
 - Python <img src="https://user-images.githubusercontent.com/21998037/68075377-2f832380-fda7-11e9-80a2-3255f807a937.png" height="25" align="center">
 - `pillow` for Python 3 :pouch:
@@ -13,8 +13,8 @@ This repository contains an image with a hidden ASCII message, the python code u
 </br>
 
 ---
-## Getting Started
-> Environment setup
+## Getting Started :clapper:
+> Environment setup :control_knobs:
 
 Start by cloning down this repository which contains the [imgSteganography.py](imgSteganography.py) script, together with the manipulated image [Stego.png](Stego.png). </br>
 Installing **pillow** can be done by executing `pip3 install pillow` on your favourite terminal.
@@ -26,14 +26,14 @@ After that follow the steps listed at the beginning of this sub-sections.
 
 </br>
 
-> Execution
+> Execution :arrow_forward:
 
 Navigate to the cloned directory. </br>
 In order to run the program you should run `python3 imgSteganography.py`.
 
 </br>
 
-> Result
+> Result :postbox:
 
 The output presented would be the hidden message stored in the image, and will be displayed like so:
 **"Congratulations, this is the secret message of the UFO class! (no, not 42)"**.
@@ -41,13 +41,13 @@ The output presented would be the hidden message stored in the image, and will b
 </br>
 
 ---
-## Investigation and Reporting
-### Search history
+## Investigation and Reporting :mag_right: :fax:
+### Search history :clock12:
 A list of all Google queries made to solve this assignment, including timestamps and all URLs of the visited pages can be found in [historyCSV](historyCSV.csv) file.
 
 </br>
 
-### 3 biggest stumbling blocks 
+### 3 biggest stumbling blocks :construction:
 In the following paragraphs you can find what we came across and our reflection on why these were problematic:
 
 **Finding example code for looping through an image's pixels that wouldn’t work with our current image.**
@@ -63,7 +63,7 @@ In the following paragraphs you can find what we came across and our reflection 
 
 </br>
 
-### Diaries
+### Diaries :notebook:
 The following section contains our *“every 30 min”* diaries for the 1 hour we spent solving the task at hand.
 
 #### Entry 1 - Doing implementation to read the needed value from an image.
@@ -80,7 +80,7 @@ The following section contains our *“every 30 min”* diaries for the 1 hour w
 
 </br>
 
-### Reflection
+### Reflection :diamond_shape_with_a_dot_inside:
 **Which aspect of the exercise was taking you the longest time to solve?** 
 > The first 30 mins (check diary:point_up:), since we were brainstorming using pen and paper and then challenging ourselves with a language we don’t use daily to implement the conclusions we’d gathered from the brainstorm.
 </br>
